@@ -17,8 +17,8 @@ Created a portfolio that showcases the core skills I've recently learned such as
 ## Languages Used:
 HTML
 CSS
-JAVASCRIP
-SASS
+JAVASCRIPT
+
 
 ## Developer:
 Reina Rivera
